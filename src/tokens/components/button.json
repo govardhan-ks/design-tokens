@@ -1,0 +1,21 @@
+{
+  "component": {
+    "button": {
+      "background": {
+        
+        "default": { 
+          "value": "{color.brand.primary}",
+          "external": "external.host-brand-primary"
+        },
+        "hover": { "value": "{color.brand.secondary}" },
+        "disabled": { "value": "{color.neutral.100}" }
+      },
+      "text": {
+        "default": { "value": "{color.neutral.100}" },
+        "disabled": { "value": "{color.neutral.900}" }
+      },
+      "padding": { "value": "{space.md}" },
+      "radius": { "value": "{radius.md}" }
+    }
+  }
+}

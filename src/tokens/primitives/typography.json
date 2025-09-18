@@ -1,0 +1,17 @@
+{
+  "font": {
+    "family": {
+      "base": { "value": "'Inter', sans-serif" },
+      "mono": { "value": "'Roboto Mono', monospace" }
+    },
+    "size": {
+      "sm": { "value": "14px" },
+      "md": { "value": "16px" },
+      "lg": { "value": "20px" }
+    },
+    "weight": {
+      "regular": { "value": "400" },
+      "bold": { "value": "700" }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "design-tokens",
+    "version": "1.0.0",
+    "main": "build/js/tokens.raw.js",
+  "files": [
+    "build/css",
+    "build/js",
+    "build/json"
+  ],
+    "scripts": {
+      "build": "style-dictionary build --config style-dictionary.config.js",
+      "clean": "rm -rf build",
+      "prepare": "npm run clean && npm run build"
+    },
+    "devDependencies": {
+      "style-dictionary": "^3.8.0"
+    }
+  }

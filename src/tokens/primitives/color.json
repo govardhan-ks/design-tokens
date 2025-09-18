@@ -1,0 +1,17 @@
+{
+  "color": {
+    "brand": {
+      "primary": { "value": "#0A84FF" },
+      "secondary": { "value": "#5856D6" }
+    },
+    "neutral": {
+      "100": { "value": "#FFFFFF" },
+      "900": { "value": "#000000" }
+    },
+    "semantic": {
+      "success": { "value": "#34C759" },
+      "warning": { "value": "#FF9500" },
+      "danger": { "value": "#FF3B30" }
+    }
+  }
+}
